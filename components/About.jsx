@@ -1,4 +1,4 @@
-import { assets } from '@/assests/assets'
+import { assets } from '@/assets/assets'
 import Image from 'next/image'
 import React from 'react'
 
@@ -15,7 +15,7 @@ const About = () => {
                         src={assets.user_image}
                         alt='user'
                         className='w-full rounded-3xl'
-                        
+
                     />
                 </div>
 

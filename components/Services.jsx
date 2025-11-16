@@ -1,4 +1,4 @@
-import { assets, serviceData } from '@/assests/assets'
+import { assets, serviceData } from '@/assets/assets'
 import React from 'react'
 import Image from 'next/image' // needed for icons
 
